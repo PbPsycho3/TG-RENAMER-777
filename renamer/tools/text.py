@@ -27,6 +27,8 @@ class TEXT:
 ** Group:** [Z Bots SUPPORT](https://t.me/z_bots_support7)
 
 ** Source Code:** [Press Me](https://t.me/source_code_z)
+
+** YouTube Channel:** [Press Me](https://youtube.com/channel/UCBNR3HdxF8qQUqsMtfyxojQ)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -51,7 +53,7 @@ I am a telegram renamer with permanent thumbnail.
 
     DONATE_USER = """**__Thanks for showing interest in donation.__**
  
-D
+
 Your Support Is Our Inspiration So Follow Z Bots
  
 __--Support Methods:--__
